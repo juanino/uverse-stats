@@ -3,7 +3,7 @@
 This perl script allows you to generate bandwidth usage graphs for any interface on a U-Verse residental gateway.
 
 The script was developed against a 2Wire 3800HGV-B running version 6. It may not work against other versions or devices.
-The has also been known to work with the 2Wire 3801HGV running version 6.3.7.40.
+This has also been known to work with the 2Wire 3801HGV running version 6.3.7.40.
 Partial support for the 2Wire i3812V (aka "inid") available, see README.i3812V.rdoc.
 
 ==Installation
